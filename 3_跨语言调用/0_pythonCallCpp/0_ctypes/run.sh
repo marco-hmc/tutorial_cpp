@@ -1,0 +1,1 @@
+g++ -shared -o add.so -fPIC add.cpp
