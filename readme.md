@@ -4,7 +4,7 @@ title: All the things about C++
 description: Grammar, functional, template, etc.
 img: assets/img/3.jpg
 importance: 1
-category: Codebase
+category: Tutorial
 ---
 
 ## C++ 相关
